@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Soc/fb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.9518255,17.2324364 L20.9518255,15.8564994 C20.9518255,15.6499442 20.9613285,15.4899539 20.98064,15.3769358 C20.9998836,15.2637479 21.0436655,15.1524267 21.1116121,15.0425309 C21.179457,14.932703 21.2893188,14.8568824 21.4410279,14.8148655 C21.5929406,14.7727806 21.7948121,14.7518061 22.0468461,14.7518061 L23.4227152,14.7518061 L23.4227152,12 L21.223137,12 C19.9504097,12 19.03632,12.3019588 18.4807321,12.9058764 C17.9252121,13.5099297 17.6474861,14.3996848 17.6474861,15.5754812 L17.6474861,17.2324024 L16,17.2324024 L16,19.9844121 L17.6473842,19.9844121 L17.6473842,27.9688582 L20.9517915,27.9688582 L20.9517915,19.9844461 L23.1512339,19.9844461 L23.4419588,17.2324364 L20.9518255,17.2324364 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Soc/fb">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#fff" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
